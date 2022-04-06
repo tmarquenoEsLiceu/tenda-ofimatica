@@ -10,11 +10,11 @@
             include 'includes/header.html';
             ?>
 
-            <h1>Pàgina 1</h1>
+            <h1>Pàgina 1 TOMEU</h1>
 
             <div class="div-vermell">
                 <div>
-                    <h1>Insertar nou client</h1>
+                    <h1>Insertar nou client TOMEU</h1>
                     <h2>H2</h2>
                 </div>
                 <div>
