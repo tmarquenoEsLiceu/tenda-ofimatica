@@ -10,7 +10,7 @@
             include 'includes/header.html';
             ?>
 
-            <h1>Pàgina 1 TOMEU</h1>
+            <h1>Pàgina 1 ALEXANDER</h1>
 
             <div class="div-vermell">
                 <div>
