@@ -9,7 +9,7 @@
         <?php
         include 'includes/header.html';
         ?>
-        <h1>CARREFOUR</h1>
+        <h1>CANVI TOMEU</h1>
         <h2>H2</h2>
         <p>Aquesta aplicació gestiona les vendes de la meva tenda</p>
         <h2>Aquí gestiones els teus clients</h2>
