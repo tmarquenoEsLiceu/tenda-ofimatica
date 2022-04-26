@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<?php include 'includes/head.html'; ?>
+<?php include 'includes/head.php'; ?>
 
 <body>
     <div>
