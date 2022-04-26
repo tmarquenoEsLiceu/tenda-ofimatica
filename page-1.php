@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<?php include 'includes/head.html'; ?>
+<?php include 'includes/head.php'; ?>
 
 <body>
     <div>
@@ -10,7 +10,7 @@
             include 'includes/header.html';
             ?>
 
-            <h1>Pàgina 1 ALEXANDER</h1>
+            <h1>Pàgina 1 TOMEU CANVI 2</h1>
 
             <div class="div-vermell">
                 <div>
